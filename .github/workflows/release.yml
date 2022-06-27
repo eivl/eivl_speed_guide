@@ -1,8 +1,5 @@
 name: Package and release
-on:
-    push:
-        tags:
-            - '**'
+on: [push]
 jobs:
     release:
         runs-on: ubuntu-latest
