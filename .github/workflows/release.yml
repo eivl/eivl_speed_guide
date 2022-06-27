@@ -14,6 +14,8 @@ jobs:
     - name: Upload Release
       uses: ncipollo/release-action@main
       with:
-        artifacts: "eivl_speed_guide_v1.0.0.zip"
+        allowUpdates: true
+        commit: "eivl"
+        artifacts: "release.zip"
         token: ${{ secrets.GITHUB_TOKEN }}
         tag: "v1.0.0"
