@@ -18,3 +18,4 @@ jobs:
         artifacts: "release.zip"
         token: ${{ secrets.GITHUB_TOKEN }}
         tag: "release"
+        commit: "main"
