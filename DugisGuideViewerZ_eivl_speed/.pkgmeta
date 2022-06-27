@@ -1,4 +1,4 @@
 package-as: DugisGuideViewerZ_eivl_speed
 
 move-folders:
-  eivl_speed_guide/DugisGuideViewerZ_eivl_speed:: DugisGuideViewerZ_eivl_speed
+  eivl_speed_guide/DugisGuideViewerZ_eivl_speed: DugisGuideViewerZ_eivl_speed
