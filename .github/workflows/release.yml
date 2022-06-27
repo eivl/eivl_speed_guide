@@ -9,13 +9,13 @@ jobs:
       uses: thedoctor0/zip-release@main
       with:
         type: 'zip'
-        filename: 'release.zip'
+        filename: 'eivl-1.0.0.zip'
         exclusions: '*.git* /*node_modules/* .editorconfig README.md LICENSE'
     - name: Upload Release
       uses: ncipollo/release-action@main
       with:
         allowUpdates: true
-        artifacts: "release.zip"
+        artifacts: "eivl-1.0.0.zip"
         token: ${{ secrets.GITHUB_TOKEN }}
-        tag: "release"
+        tag: "1.0.0"
         commit: "main"
