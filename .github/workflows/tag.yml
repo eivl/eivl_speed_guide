@@ -17,3 +17,4 @@ jobs:
         token: ${{ secrets.GITHUB_TOKEN }}
         allowUpdates: true
         tag: "release"
+        artifactContentType: "application/zip"
