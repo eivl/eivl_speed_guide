@@ -15,6 +15,6 @@ jobs:
       uses: ncipollo/release-action@main
       with:
         allowUpdates: true
-        commit: "eivl"
         artifacts: "release.zip"
         token: ${{ secrets.GITHUB_TOKEN }}
+        tag: "release"
