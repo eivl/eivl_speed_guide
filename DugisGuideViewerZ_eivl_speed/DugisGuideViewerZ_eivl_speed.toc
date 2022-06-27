@@ -1,7 +1,7 @@
 ## Interface: 90205
 ## Title: eivl's |cff1784d1speed guide|r
 ## Notes: Custom guides that will load with eivl's speed guide.
-## Version: 1.0.0
+## Version: 1.0.1
 ## Author: Eivind Teig
 ## RequiredDeps: DugisGuideViewerZ
 ## DefaultState: enabled
