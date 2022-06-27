@@ -43,3 +43,5 @@
 > 13. Run the game, click the AddOns button, your guides should be checked, along with Dugi Guides. **Note:** *If Dugi Guides get's disabled so will your addon*.
 
 Please bare with me, I will try to finish the documentation on how to write your own guides. Once I am finished, it will be included in this Getting Started pack.
+#Modded by eivl
+
