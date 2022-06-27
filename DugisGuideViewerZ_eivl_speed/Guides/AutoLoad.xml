@@ -1,0 +1,8 @@
+<Ui xmlns="http://www.blizzard.com/wow/ui/">
+	<Script file="eivl_preparing.lua"/>
+	<Script file="eivl_torghast.lua"/>
+	<Script file="eivl_revendreth.lua"/>
+	<Script file="eivl_ardenweald.lua"/>
+	<Script file="eivl_maldraxxus.lua"/>
+	<Script file="eivl_bastion.lua"/>
+</Ui>
