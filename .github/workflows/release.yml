@@ -1,14 +1,22 @@
-name: Package and release
+name: Create Archive
 on: [push]
 jobs:
-    release:
-        runs-on: ubuntu-latest
-        env:
-            GITHUB_OAUTH: ${{ secrets.GITHUB_TOKEN }}
-        steps:
-            - name: Clone project
-              uses: actions/checkout@v2
-              with:
-                  fetch-depth: 0
-            - name: Package and release
-              uses: BigWigsMods/packager@v2
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@master
+    - name: Archive Release
+      uses: thedoctor0/zip-release@main
+      with:
+        type: 'zip'
+        filename: 'eivl-1.0.0.zip'
+        exclusions: '*.git* /*node_modules/* .editorconfig README.md LICENSE'
+    - name: Upload Release
+      uses: ncipollo/release-action@main
+      with:
+        allowUpdates: true
+        artifacts: "eivl-1.0.0.zip"
+        token: ${{ secrets.GITHUB_TOKEN }}
+        tag: "1.0.0"
+        commit: "main"
+        artifactContentType: "application/zip"
