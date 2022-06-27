@@ -10,9 +10,10 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v1
+    - uses: actions/checkout@main
     - uses: ncipollo/release-action@main
       with:
-        artifacts: "release.tar.gz,foo/*.txt"
-        bodyFile: "body.md"
+        artifacts: "release.zip"
         token: ${{ secrets.GITHUB_TOKEN }}
+        allowUpdates: true
+        tag: "release"
