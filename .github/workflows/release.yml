@@ -10,10 +10,10 @@ jobs:
       with:
         type: 'zip'
         filename: 'release.zip'
-        exclusions: '*.git* /*node_modules/* .editorconfig'
+        exclusions: '*.git* /*node_modules/* .editorconfig README.md LICENSE'
     - name: Upload Release
       uses: ncipollo/release-action@main
       with:
-        artifacts: "release.zip"
+        artifacts: "eivl_speed_guide_v1.0.0.zip"
         token: ${{ secrets.GITHUB_TOKEN }}
-        tag: "release"
+        tag: "v1.0.0"
