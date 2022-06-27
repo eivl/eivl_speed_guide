@@ -3,7 +3,7 @@ function Guide:Initialize()
     function Guide:Load()DugisGuideViewer:RegisterGuide("|cffffd200eivl's Speed Guide|r", "1670(50+)#1670(50+)#1670(50+)", "1911(50-51)#1911(50-51)#1911(50-51)", nil, nil, "L", nil, function()
 return [[
 
-N You should farm old content to level 51 as its hard <br/>to do Threads of Fate at level 50.
+N You should farm old content to level 51 as its hard <br/>to do Threads of Fate at level 50. Or buy gear at the AH to get up to 80 ilvl.
 N If possible Learn Shadowlands Engineering.
 N Activate the Threads of Fate
 N Buy 4 x (item:188167) from (npc:182864)<br/><b>Use item after you have selected one of each Covenant.<br/><b>This gives you 40 (cur:1822) and extra (cur:1813) for 500<g><br/><b>Pick your wanted covenant last.
