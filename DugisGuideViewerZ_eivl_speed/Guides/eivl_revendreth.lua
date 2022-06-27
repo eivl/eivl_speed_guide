@@ -96,7 +96,6 @@ C A Curious Invitation |QID|59710| |N|Meet with Courier Araak., in {Feeders' Thi
 T A Curious Invitation |QID|59710| |N|(npc:169238), in {Feeders' Thicket} (59.53, 66.73)| |Z|1525| |NPC|169238|
 A The Lay of the Land |QID|59712| |N|(npc:169238), in {Feeders' Thicket} (59.53, 66.73)| |Z|1525| |NPC|169238|
 N |QID|59712.1| |N|1/1 Nadjia checked, in {Feeders' Thicket} (59.91, 68.92)| |Z|1525|
-A WANTED: Aggregate of Doom |QID|60277| |N| SKIP <color:e1cd96>WANTED: Aggregate of Doom</c>, in {Stonevigil Overlook} (59.09, 69.22)| |Z|1525| |OBJ|351885|
 N |QID|59712.2| |N|1/1 Taskmaster's journal found, in {Stonevigil Overlook} (58.66, 69.36)| |Z|1525|
 C The Lay of the Land |QID|59712| |N|Check on Nadjia and investigate Taskmaster Matyas's camp., in {Stonevigil Overlook} (58.66, 69.36)| |Z|1525|
 T The Lay of the Land |QID|59712| |N|(npc:165921), in {Feeders' Thicket} (60.28, 69.27)| |Z|1525| |NPC|165921|
@@ -106,12 +105,9 @@ N |QID|59846.1| |N|1/1 Cobwobble questioned, in {Feeders' Thicket} (60.27, 68.47
 N |QID|59846.3| |N|1/1 Slobwobble questioned, in {Feeders' Thicket} (61.34, 67.99)| |Z|1525|
 N |QID|59846.4| |N|3/3 Sinstones collected, in {Feeders' Thicket} (60.82, 72.10)| |Z|1525|
 C Finders-Keepers, Sinners-Weepers |QID|59846| |N|Discover the secrets of Taskmaster Matyas's efforts in Feeder's Thicket., in {Feeders' Thicket} (60.82, 72.10)| |Z|1525|
-N |QID|60277.1| |N|1/1 Aggregate of Doom slain, in {Feeders' Thicket} (61.27, 72.81)| |Z|1525|
-C WANTED: Aggregate of Doom |QID|60277| |N|Find and slay the Aggregate of Doom., in {Feeders' Thicket} (61.27, 72.81)| |Z|1525|
 T Finders-Keepers, Sinners-Weepers |QID|59846| |N|(npc:165864), in {Feeders' Thicket} (59.90, 68.94)| |Z|1525| |NPC|165864|
 A A Fine Vintage |QID|59714| |N|(npc:165864), in {Feeders' Thicket} (59.90, 68.94)| |Z|1525| |NPC|165864|
 A Active Ingredients |QID|59713| |N|(npc:165864), in {Feeders' Thicket} (59.90, 68.94)| |Z|1525| |NPC|165864|
-T WANTED: Aggregate of Doom |QID|60277| |N|(npc:168122), in {Stonevigil Overlook} (58.76, 69.53)| |Z|1525| |NPC|168122|
 N |QID|59713.1| |N|1/1 Pristine Venom Gland, in {Feeders' Thicket} (62.33, 70.95)| |Z|1525|
 N |QID|59713.2| |N|60/60 Venom Gland collected, in {Feeders' Thicket} (62.94, 68.98)| |Z|1525|
 C Active Ingredients |QID|59713| |N|Gather ingredients for Nadjia's mixture., in {Feeders' Thicket} (62.94, 68.98)| |Z|1525|
