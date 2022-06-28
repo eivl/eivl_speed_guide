@@ -129,8 +129,6 @@ T Swollen Anima Seed |QID|62186| |N|(npc:158487), in {Tirna Vaal} (63.54, 36.16)
 T A Dangerous Harvest |QID|60872| |N|in {Glitterfall Basin} (52.23, 33.63)| |Z|1565|
 T The Grove of Creation |QID|57660| |N|(npc:158345), in {Glitterfall Basin} (51.15, 33.84)| |Z|1565| |NPC|158345|
 A Trouble in the Banks |QID|57651| |N|(npc:158345), in {Glitterfall Basin} (51.15, 33.84)| |Z|1565| |NPC|158345|
-A The Unshackled |QID|56120| |N|in {Glitterfall Basin} (51.17, 33.89)| |Z|1565|
-A The Valarjar |QID|42234| |N|in {Glitterfall Basin} (51.17, 33.89)| |Z|1565|
 T Trouble in the Banks |QID|57651| |N|(npc:158422), in {Banks of Life} (46.65, 29.41)| |Z|1565| |NPC|158422|
 A Breaking a Few Eggs |QID|59621| |N|(npc:158422), in {Banks of Life} (46.65, 29.41)| |Z|1565| |NPC|158422|
 A Tending to the Tenders |QID|59622| |N|(npc:158422), in {Banks of Life} (46.65, 29.41)| |Z|1565| |NPC|158422|
