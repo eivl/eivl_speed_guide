@@ -9,8 +9,6 @@ C Read Between the Lines |QID|58619| |N|Follow Ta'eran to the Sepulcher of Knowl
 T Read Between the Lines |QID|58619| |N|(npc:166664), in {Sepulcher of Knowledge} (43.02, 25.18)| |Z|1536| |NPC|166664|
 A Kill Them, Of Course |QID|59917| |N|(npc:166664), in {Sepulcher of Knowledge} (43.02, 25.18)| |Z|1536| |NPC|166664|
 A Repeat After Me |QID|58621| |N|(npc:166664), in {Sepulcher of Knowledge} (43.02, 25.18)| |Z|1536| |NPC|166664|
-A Tortollan Seekers |QID|50604| |N|in {Sepulcher of Knowledge} (43.06, 25.34)| |Z|1536|
-A The Nightfallen |QID|42421| |N|in {Sepulcher of Knowledge} (43.06, 25.34)| |Z|1536|
 N |QID|59917.1| |N|8/8 Enraged Glutton slain, in {Sepulcher of Knowledge} (43.56, 24.84)| |Z|1536|
 C Kill Them, Of Course |QID|59917| |N|in {Sepulcher of Knowledge} (43.56, 24.84)| |Z|1536|
 T Kill Them, Of Course |QID|59917| |N|(npc:166664), in {Sepulcher of Knowledge} (43.09, 25.16)| |Z|1536| |NPC|166664|
