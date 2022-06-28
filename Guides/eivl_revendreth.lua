@@ -82,11 +82,11 @@ N |QID|60176.1| |N|Tithe anima collected (100%), in {Darkhaven} (63.09, 62.83)| 
 C Bring Out Your Tithe |QID|60176| |N|Collect anima from the village for the tithe., in {Darkhaven} (63.09, 62.83)| |Z|1525|
 N |QID|60177.3| |N|1/1 Soul of Keltesh clue found, in {Darkhaven} (62.69, 64.65)| |Z|1525|
 C Reason for the Treason |QID|60177| |N|Speak with the "help" in the village to find clues leading to the identity of the traitor., in {Darkhaven} (62.69, 64.65)| |Z|1525|
-T Bring Out Your Tithe |QID|60176| |N|(npc:156822), in {The Sinposium} (61.33, 63.80)| |Z|1525| |NPC|156822|
 T Reason for the Treason |QID|60177| |N|(npc:167489), in {Darkhaven} (62.23, 61.42)| |Z|1525| |NPC|167489|
 A And Then There Were None |QID|60178| |N|(npc:167489), in {Darkhaven} (62.23, 61.42)| |Z|1525| |NPC|167489|
 N |QID|60178.2| |N|1/1 Ilka invited, in {Darkhaven} (63.20, 60.39)| |Z|1525|
 N |QID|60178.1| |N|1/1 Samu invited, in {The Sinposium} (61.81, 64.38)| |Z|1525|
+T Bring Out Your Tithe |QID|60176| |N|(npc:156822), in {The Sinposium} (61.33, 63.80)| |Z|1525| |NPC|156822|
 N |QID|60178.3| |N|1/1 Traitor confronted, in {Darkhaven} (61.27, 59.72)| |Z|1525|
 C And Then There Were None |QID|60178| |N|Gather the suspects and meet Lajos in the large crypt., in {Darkhaven} (61.27, 59.72)| |Z|1525|
 T And Then There Were None |QID|60178| |N|(npc:168448), in {Darkhaven} (61.24, 59.73)| |Z|1525| |NPC|168448|
