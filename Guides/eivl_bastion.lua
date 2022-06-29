@@ -72,6 +72,7 @@ A Maldraxxi Eviction Notice |QID|62736| |N|in {Xandria's Vigil} (42.14, 55.80)| 
 N |QID|62736.1| |N|Repel the Maldraxxi threat (100%), in {Temple of Courage} (37.95, 52.30)| |Z|1533|
 C Maldraxxi Eviction Notice |QID|62736| |N|in {Temple of Courage} (37.95, 52.30)| |Z|1533|
 T Maldraxxi Eviction Notice |QID|62736| |N|in {Temple of Courage} (37.95, 52.30)| |Z|1533|
+T More Than A Gift |QID|62715| |N|(npc:174900), in {Purity's Reflection} (53.83, 73.90)| |Z|1533| |NPC|174900|
 T A Fine Journey |QID|59554| |N|(npc:158078), in {Agthia's Repose} (46.94, 63.44)| |Z|1533| |NPC|158078|
 A In Agthia's Memory |QID|57549| |N|(npc:158078), in {Agthia's Repose} (46.94, 63.44)| |Z|1533| |NPC|158078|
 N |QID|57549.1| |N|1/1 Meditate on first scroll, in {Agthia's Repose} (47.45, 65.99)| |Z|1533|
@@ -100,7 +101,6 @@ N |QID|57555.1| |N|1/1 Tezulat the Annihilator slain, in {Agthia's Repose} (44.8
 C Shadow's Fall |QID|57555| |N|Kill Tezulat the Annihilator., in {Agthia's Repose} (44.86, 68.66)| |Z|1533|
 T Shadow's Fall |QID|57555| |N|(npc:158078), in {Agthia's Repose} (46.93, 63.46)| |Z|1533| |NPC|158078|
 T Gateways of Horror |QID|59804| |N|in {} (49.25, 65.16)| |Z|1533|
-T More Than A Gift |QID|62715| |N|(npc:174900), in {Purity's Reflection} (53.83, 73.90)| |Z|1533| |NPC|174900|
 A A Friendly Rivalry |QID|59674| |N|(npc:158765), in {} (57.42, 54.26)| |Z|1533| |NPC|158765|
 T A Friendly Rivalry |QID|59674| |N|(npc:157696), in {Nemea's Retreat} (57.26, 39.22)| |Z|1533| |NPC|157696|
 A Part of the Pride |QID|58037| |N|(npc:157696), in {Nemea's Retreat} (57.26, 39.22)| |Z|1533| |NPC|157696|
